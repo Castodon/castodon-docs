@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstore_docs=self.webpackChunkstore_docs||[]).push([[341],{517:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/castodon-docs/blog/tags/docusaurus","allTagsPath":"/castodon-docs/blog/tags","count":4,"unlisted":false}')}}]);
