@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstore_docs=self.webpackChunkstore_docs||[]).push([[323],{41:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/castodon-docs/blog/tags/facebook","allTagsPath":"/castodon-docs/blog/tags","count":1,"unlisted":false}')}}]);

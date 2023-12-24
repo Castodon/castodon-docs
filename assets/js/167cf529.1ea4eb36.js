@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstore_docs=self.webpackChunkstore_docs||[]).push([[1831],{5622:o=>{o.exports=JSON.parse('{"permalink":"/castodon-docs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
