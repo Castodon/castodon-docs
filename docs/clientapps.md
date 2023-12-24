@@ -7,7 +7,8 @@ title: Client Applications
 
 Castodon 支持多平台操作系统：Android, macOS, iOS, Windows 和 Linux, 以及移动智能设备和电脑的浏览器。
 
-## 使用说明
+
+## 登录信息
 
 不同的客户端应用和浏览器都基于以下 3 项进行登录：
 
@@ -17,9 +18,19 @@ Castodon 支持多平台操作系统：Android, macOS, iOS, Windows 和 Linux, �
 
 用户名和密码需要首先使用浏览器打开服务器的注册地址 `https://${SERVER_URL}/auth/sign_up`，注册需要一个使用者本人的、有效的邮箱。
 
-> 比如春松部落的注册地址为 [https://tribe.cskefu.com/auth/sign_up](https://tribe.cskefu.com/auth/sign_up)
+> 比如，春松部落的注册地址为 [https://tribe.cskefu.com/auth/sign_up](https://tribe.cskefu.com/auth/sign_up)
 
-具备了以上三项登录信息后，不同客户端的登录过程类似，以下是安卓客户端的登录：
+## 会员订阅
+
+**Castodon 服务的发帖和私信，需要购买会员订阅，否则注册后只能浏览信息**。购买会员订阅和绑定过程，目前只支持在浏览器中打开：[`https://${SERVER_URL}/memberships`](https://${SERVER_URL}/memberships)
+
+> 比如，春松部落的会员订阅管理地址为 [https://tribe.cskefu.com/memberships](https://tribe.cskefu.com/memberships)
+
+**在没有绑定有效的会员订阅证书[^valid-license]的情况下，登录不同客户端后，无法发帖和私聊。**
+
+## 登录过程
+
+具备了以上三项登录信息后，不同客户端的登录过程类似，以安卓 App 为例：
 
 1. 打开应用，在首页点击【登录】
 2. 进入新的页面填写服务器地址（Server URL，比如 `tribe.cskefu.com`），填写完成后，应用会检查该服务器是否有效
@@ -40,21 +51,9 @@ Castodon 支持多平台操作系统：Android, macOS, iOS, Windows 和 Linux, �
 
 [https://dwz.chatopera.com/007u81](https://dwz.chatopera.com/007u81)
 
-### Windows
+### iOS
 
-使用下面的链接下载软件安装包，根据提示安装。
-
-[https://dwz.chatopera.com/nao1f6](https://dwz.chatopera.com/nao1f6)
-
-### Macbook
-
-适配苹果桌面操作系统，macOS, Mac OSX, etc.
-
-[https://apps.apple.com/us/app/whalebird/id6445864587](https://apps.apple.com/us/app/whalebird/id6445864587)
-
-或在苹果应用商店搜索：`whalebird`
-
-### iPhone/iPad
+适配苹果移动客户端操作系统，iPhone，iPad.
 
 [https://apps.apple.com/cn/app/tootoise/id1465090190?l=en-GB](https://apps.apple.com/cn/app/tootoise/id1465090190?l=en-GB)
 
@@ -69,9 +68,23 @@ Castodon 支持多平台操作系统：Android, macOS, iOS, Windows 和 Linux, �
 * deb [https://dwz.chatopera.com/V82hgy](https://dwz.chatopera.com/V82hgy)
 * tar.bz2 [https://dwz.chatopera.com/5FC82M](https://dwz.chatopera.com/5FC82M)
 
+### macOS/Mac OSX
+
+适配苹果桌面操作系统，macOS, Mac OSX, etc.
+
+[https://apps.apple.com/us/app/whalebird/id6445864587](https://apps.apple.com/us/app/whalebird/id6445864587)
+
+或在苹果应用商店搜索：`whalebird`
+
+### Windows
+
+使用下面的链接下载软件安装包，根据提示安装。
+
+[https://dwz.chatopera.com/nao1f6](https://dwz.chatopera.com/nao1f6)
+
 ## 帮助
 
 如使用客户端遇到问题时，[联系我们](/castodon-docs/docs/help)。
 
-
 [^channels-own]: 服务提供方的自有渠道，比如某公司运营的微信公众号、官网等。
+[^valid-license]: 有效的证书，是指在有效期内，还有剩余配额的证书。关于证书的介绍，参考示例 [春松部落会员订阅证书](https://store.chatopera.com/product/cstribe001)
