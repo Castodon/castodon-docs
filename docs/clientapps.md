@@ -72,9 +72,7 @@ Castodon 支持多平台操作系统：Android, macOS, iOS, Windows 和 Linux, �
 
 适配苹果桌面操作系统，macOS, Mac OSX, etc.
 
-[https://apps.apple.com/us/app/whalebird/id6445864587](https://apps.apple.com/us/app/whalebird/id6445864587)
-
-或在苹果应用商店搜索：`whalebird`
+* DMG [https://dwz.chatopera.com/OL9v81](https://dwz.chatopera.com/OL9v81)
 
 ### Windows
 
