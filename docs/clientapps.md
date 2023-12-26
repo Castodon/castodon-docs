@@ -49,7 +49,7 @@ Castodon 支持多平台操作系统：Android, macOS, iOS, Windows 和 Linux, �
 
 目前尚未在安卓应用商店上传，在安卓手机浏览器中，使用下面的链接下载 APK 后根据提示安装。
 
-[https://dwz.chatopera.com/007u81](https://dwz.chatopera.com/007u81)
+* apk [https://dwz.chatopera.com/007u81](https://dwz.chatopera.com/007u81)
 
 ### iOS
 
@@ -72,13 +72,13 @@ Castodon 支持多平台操作系统：Android, macOS, iOS, Windows 和 Linux, �
 
 适配苹果桌面操作系统，macOS, Mac OSX, etc.
 
-* DMG [https://dwz.chatopera.com/OL9v81](https://dwz.chatopera.com/OL9v81)
+* dmg [https://dwz.chatopera.com/OL9v81](https://dwz.chatopera.com/OL9v81)
 
 ### Windows
 
 使用下面的链接下载软件安装包，根据提示安装。
 
-[https://dwz.chatopera.com/nao1f6](https://dwz.chatopera.com/nao1f6)
+* exe [https://dwz.chatopera.com/nao1f6](https://dwz.chatopera.com/nao1f6)
 
 ## 帮助
 
