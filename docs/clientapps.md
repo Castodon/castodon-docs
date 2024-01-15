@@ -55,18 +55,11 @@ Castodon 支持多平台操作系统：Android, macOS, iOS, Windows 和 Linux, �
 
 适配苹果移动客户端操作系统，iPhone，iPad.
 
-[https://apps.apple.com/cn/app/tootoise/id1465090190?l=en-GB](https://apps.apple.com/cn/app/tootoise/id1465090190?l=en-GB)
+[https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466)
 
-或在苹果应用商店搜索：`tootoise`
+或在苹果应用商店搜索：`mastodon`，有多个相关应用，推荐：`Tootle for Mastodon`。
 
-### Linux
-
-根据不同 Linux 发行版，下载对应的安装包，下载后双击或命令行进行安装。
-
-* rpm [https://dwz.chatopera.com/ks5LE3](https://dwz.chatopera.com/ks5LE3)
-* AppImage [https://dwz.chatopera.com/22QP95](https://dwz.chatopera.com/22QP95)
-* deb [https://dwz.chatopera.com/V82hgy](https://dwz.chatopera.com/V82hgy)
-* tar.bz2 [https://dwz.chatopera.com/5FC82M](https://dwz.chatopera.com/5FC82M)
+![](../static/assets/screenshot_20240116060857.png)
 
 ### macOS/Mac OSX
 
@@ -79,6 +72,15 @@ Castodon 支持多平台操作系统：Android, macOS, iOS, Windows 和 Linux, �
 使用下面的链接下载软件安装包，根据提示安装。
 
 * exe [https://dwz.chatopera.com/nao1f6](https://dwz.chatopera.com/nao1f6)
+
+### Linux
+
+根据不同 Linux 发行版，下载对应的安装包，下载后双击或命令行进行安装。
+
+* rpm [https://dwz.chatopera.com/ks5LE3](https://dwz.chatopera.com/ks5LE3)
+* AppImage [https://dwz.chatopera.com/22QP95](https://dwz.chatopera.com/22QP95)
+* deb [https://dwz.chatopera.com/V82hgy](https://dwz.chatopera.com/V82hgy)
+* tar.bz2 [https://dwz.chatopera.com/5FC82M](https://dwz.chatopera.com/5FC82M)
 
 ## 帮助
 
